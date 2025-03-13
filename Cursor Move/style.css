@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow: hidden;
+}
+
+span{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: url(https://4kwallpapers.com/black-dark/sukuna-x-gojo-21530.html);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    pointer-events: none;
+}
